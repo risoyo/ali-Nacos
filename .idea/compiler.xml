@@ -26,20 +26,20 @@
     <bytecodeTargetLevel>
       <module name="ali-Nacos" target="1.8" />
       <module name="nacos-address" target="1.8" />
-      <module name="nacos-api" target="1.8" />
-      <module name="nacos-auth" target="1.8" />
-      <module name="nacos-client" target="1.8" />
+      <module name="nacos-api" target="6" />
+      <module name="nacos-auth" target="8" />
+      <module name="nacos-client" target="6" />
       <module name="nacos-cmdb" target="1.7" />
-      <module name="nacos-common" target="1.8" />
+      <module name="nacos-common" target="6" />
       <module name="nacos-config" target="1.8" />
-      <module name="nacos-consistency" target="1.8" />
+      <module name="nacos-consistency" target="8" />
       <module name="nacos-console" target="1.8" />
-      <module name="nacos-core" target="1.8" />
+      <module name="nacos-core" target="8" />
       <module name="nacos-distribution" target="1.8" />
       <module name="nacos-example" target="1.8" />
       <module name="nacos-istio" target="1.8" />
       <module name="nacos-naming" target="1.8" />
-      <module name="nacos-sys" target="1.8" />
+      <module name="nacos-sys" target="8" />
       <module name="nacos-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
