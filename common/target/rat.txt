@@ -1,0 +1,132 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:06+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 106
+
+Apache Licensed: 106
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/common/pom.xml
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/codec/Base64.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/constant/HttpHeaderConsts.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/constant/ResponseHandlerType.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/executor/ExecutorFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/executor/NameThreadFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/executor/ThreadPoolManager.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/AbstractApacheHttpClientFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/AbstractHttpClientFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/BaseHttpMethod.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/Callback.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/AbstractNacosRestTemplate.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/handler/AbstractResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/handler/BeanResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/handler/ResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/handler/RestResultResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/handler/StringResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/HttpClientRequestInterceptor.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/InterceptingHttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/NacosAsyncRestTemplate.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/NacosRestTemplate.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/request/AsyncHttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/request/DefaultAsyncHttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/request/DefaultHttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/request/HttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/request/JdkHttpClientRequest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/response/DefaultClientHttpResponse.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/response/HttpClientResponse.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/client/response/JdkHttpClientResponse.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/DefaultHttpClientFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/handler/RequestHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/handler/ResponseHandler.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/HttpClientBeanHolder.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/HttpClientConfig.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/HttpClientFactory.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/HttpRestResult.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/HttpUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/param/Header.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/param/MediaType.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/http/param/Query.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/JustForTest.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/lifecycle/Closeable.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/model/core/IResultCode.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/model/RequestHttpEntity.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/model/RestResult.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/model/RestResultUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/DefaultPublisher.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/DefaultSharePublisher.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/Event.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/EventPublisher.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/listener/SmartSubscriber.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/listener/Subscriber.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/NotifyCenter.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/notify/SlowEvent.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/NotThreadSafe.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/package-info.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/AbstractDelayTask.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/AbstractExecuteTask.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/engine/AbstractNacosTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/engine/NacosDelayTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/engine/NacosExecuteTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/engine/NacosTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/engine/TaskExecuteWorker.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/NacosTask.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/task/NacosTaskProcessor.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/tls/SelfHostnameVerifier.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/tls/SelfTrustManager.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/tls/TlsFileWatcher.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/tls/TlsHelper.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/tls/TlsSystemConfig.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/BiConsumer.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/BiFunction.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ByteUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ClassUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/CollectionUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ConcurrentHashSet.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ConvertUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ExceptionUtil.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/HttpMethod.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/IoUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/IPUtil.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/JacksonUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/LoggerUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/MapUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/MD5Utils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/NamespaceUtil.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/Objects.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/Observable.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/Observer.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/Pair.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ResourceUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/StringUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/ThreadUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/UuidUtils.java
+  AL    D:/Project/nacos-develop/common/src/main/java/com/alibaba/nacos/common/utils/VersionUtils.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/AppTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/http/param/MediaTypeTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/http/param/QueryTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/notify/NotifyCenterTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/task/engine/NacosDelayTaskExecuteEngineTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/task/engine/NacosExecuteTaskExecuteEngineTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/utils/IPUtilTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/utils/MapUtilsTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/utils/MD5UtilsTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/utils/NamespaceUtilTest.java
+  AL    D:/Project/nacos-develop/common/src/test/java/com/alibaba/nacos/common/utils/VersionUtilsTest.java
+ 
+*****************************************************

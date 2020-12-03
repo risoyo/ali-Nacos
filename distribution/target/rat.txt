@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:15:05+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 20
+
+Apache Licensed: 20
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/distribution/bin/shutdown.cmd
+  AL    D:/Project/nacos-develop/distribution/bin/shutdown.sh
+  AL    D:/Project/nacos-develop/distribution/bin/startup.cmd
+  AL    D:/Project/nacos-develop/distribution/bin/startup.sh
+  AL    D:/Project/nacos-develop/distribution/conf/1.4.0-ipv6_support-update.sql
+  AL    D:/Project/nacos-develop/distribution/conf/application.properties
+  AL    D:/Project/nacos-develop/distribution/conf/application.properties.example
+  AL    D:/Project/nacos-develop/distribution/conf/cluster.conf.example
+  AL    D:/Project/nacos-develop/distribution/conf/nacos-logback.xml
+  AL    D:/Project/nacos-develop/distribution/conf/nacos-mysql.sql
+  AL    D:/Project/nacos-develop/distribution/conf/schema.sql
+  AL    D:/Project/nacos-develop/distribution/LICENSE-BIN
+  AL    D:/Project/nacos-develop/distribution/NOTICE-BIN
+  AL    D:/Project/nacos-develop/distribution/pom.xml
+  AL    D:/Project/nacos-develop/distribution/release-address.xml
+  AL    D:/Project/nacos-develop/distribution/release-client.xml
+  AL    D:/Project/nacos-develop/distribution/release-config.xml
+  AL    D:/Project/nacos-develop/distribution/release-core.xml
+  AL    D:/Project/nacos-develop/distribution/release-nacos.xml
+  AL    D:/Project/nacos-develop/distribution/release-naming.xml
+ 
+*****************************************************

@@ -1,0 +1,102 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:01+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 76
+
+Apache Licensed: 76
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/api/pom.xml
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/annotation/NacosInjected.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/annotation/NacosProperties.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/pojo/Entity.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/pojo/EntityEvent.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/pojo/EntityEventType.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/pojo/Label.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/pojo/PreservedEntityTypes.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/cmdb/spi/CmdbService.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/common/Constants.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/common/ResponseCode.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/annotation/NacosConfigListener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/annotation/NacosConfigurationProperties.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/annotation/NacosIgnore.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/annotation/NacosProperty.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/annotation/NacosValue.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/ConfigChangeEvent.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/ConfigChangeItem.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/ConfigFactory.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/ConfigService.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/ConfigType.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/convert/NacosConfigConverter.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IConfigContext.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IConfigFilter.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IConfigFilterChain.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IConfigRequest.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IConfigResponse.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/filter/IFilterConfig.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/listener/AbstractListener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/listener/AbstractSharedListener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/listener/ConfigChangeParser.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/listener/Listener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/config/PropertyChangeType.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/exception/NacosException.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/exception/runtime/NacosDeserializationException.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/exception/runtime/NacosRuntimeException.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/exception/runtime/NacosSerializationException.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/NacosFactory.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/CommonParams.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/listener/AbstractEventListener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/listener/Event.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/listener/EventListener.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/listener/NamingEvent.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/NamingFactory.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/NamingMaintainFactory.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/NamingMaintainService.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/NamingResponseCode.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/NamingService.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/Cluster.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/AbstractHealthChecker.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/HealthCheckerFactory.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/HealthCheckType.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/impl/Http.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/impl/Mysql.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/healthcheck/impl/Tcp.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/Instance.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/ListView.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/Service.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/pojo/ServiceInfo.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/PreservedMetadataKeys.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/naming/utils/NamingUtils.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/PropertyKeyConst.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/selector/AbstractSelector.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/selector/ExpressionSelector.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/selector/NoneSelector.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/selector/SelectorType.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/SystemPropertyKeyConst.java
+  AL    D:/Project/nacos-develop/api/src/main/java/com/alibaba/nacos/api/utils/StringUtils.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/annotation/NacosPropertiesTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/healthcheck/AbstractHealthCheckerTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/healthcheck/HealthCheckerFactoryTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/healthcheck/impl/HttpTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/healthcheck/impl/MysqlTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/healthcheck/TestChecker.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/pojo/ServiceInfoTest.java
+  AL    D:/Project/nacos-develop/api/src/test/java/com/alibaba/nacos/api/naming/utils/NamingUtilsTest.java
+ 
+*****************************************************

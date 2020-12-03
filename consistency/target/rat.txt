@@ -1,0 +1,57 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:14+08:00
+
+Notes: 0
+Binaries: 1
+Archives: 0
+Standards: 30
+
+Apache Licensed: 30
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/consistency/pom.xml
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/ap/APProtocol.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/ap/RequestProcessor4AP.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/CommandOperations.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/Config.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/ConsistencyProtocol.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/cp/CPProtocol.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/cp/MetadataKey.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/cp/RequestProcessor4CP.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/DataOperation.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/exception/ConsistencyException.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/exception/NoSuchLogProcessorException.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/IdGenerator.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/ProtocolMetaData.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/ProtoMessageUtil.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/RequestProcessor.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/serialize/HessianSerializer.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/serialize/JacksonSerializer.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/SerializeFactory.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/Serializer.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/snapshot/LocalFileMeta.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/snapshot/Reader.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/snapshot/SnapshotOperation.java
+  AL    D:/Project/nacos-develop/consistency/src/main/java/com/alibaba/nacos/consistency/snapshot/Writer.java
+  AL    D:/Project/nacos-develop/consistency/src/main/proto/consistency.proto
+  AL    D:/Project/nacos-develop/consistency/src/main/proto/Data.proto
+  B     D:/Project/nacos-develop/consistency/src/main/proto/protoc.exe
+  AL    D:/Project/nacos-develop/consistency/src/main/resources/META-INF/services/com.alibaba.nacos.consistency.Serializer
+  AL    D:/Project/nacos-develop/consistency/src/test/java/com/alibaba/nacos/consistency/ProtocolMetaDataTest.java
+  AL    D:/Project/nacos-develop/consistency/src/test/java/com/alibaba/nacos/consistency/ProtoMessageUtilTest.java
+  AL    D:/Project/nacos-develop/consistency/src/test/java/com/alibaba/nacos/consistency/SerializeFactoryTest.java
+ 
+*****************************************************

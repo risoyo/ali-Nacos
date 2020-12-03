@@ -1,0 +1,11 @@
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\model\Resource.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\parser\DefaultResourceParser.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\parser\ResourceParser.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\common\AuthSystemTypes.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\AuthManager.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\model\Permission.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\model\User.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\exception\AccessException.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\annotation\Secured.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\common\ActionTypes.java
+D:\Project\nacos-develop\auth\src\main\java\com\alibaba\nacos\auth\common\AuthConfigs.java

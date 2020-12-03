@@ -1,0 +1,137 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:24+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 111
+
+Apache Licensed: 111
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/core/pom.xml
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/auth/AuthConfig.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/auth/AuthFilter.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/auth/condition/ParamRequestCondition.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/auth/condition/PathRequestCondition.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/auth/RequestMappingInfo.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/AbstractMemberLookup.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/lookup/AddressServerMemberLookup.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/lookup/FileConfigMemberLookup.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/lookup/LookupFactory.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/lookup/StandaloneMemberLookup.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/Member.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/MemberChangeListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/MemberLookup.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/MemberMetaDataConstants.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/MembersChangeEvent.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/MemberUtils.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/NodeState.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/ServerMemberManager.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/cluster/Task.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/code/ControllerMethodsCache.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/code/SpringApplicationRunListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/code/StandaloneProfileApplicationListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/controller/CoreOpsController.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/controller/NacosClusterController.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/AbstractConsistencyProtocol.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/ConsistencyConfiguration.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroCallback.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroComponentHolder.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroDataProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroDataStorage.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroFailedTaskHandler.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/component/DistroTransportAgent.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/DistroConfig.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/DistroProtocol.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/entity/DistroData.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/entity/DistroKey.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/exception/DistroException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/delay/DistroDelayTask.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/delay/DistroDelayTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/delay/DistroDelayTaskProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/DistroTaskEngineHolder.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/execute/AbstractDistroExecuteTask.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/execute/DistroExecuteTaskExecuteEngine.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/execute/DistroSyncChangeTask.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/load/DistroLoadDataTask.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/distro/task/verify/DistroVerifyTask.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/id/IdGeneratorManager.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/id/SnowFlowerIdGenerator.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/ProtocolExecutor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/ProtocolManager.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/exception/DuplicateRaftGroupException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/exception/JRaftException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/exception/NoLeaderException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/exception/NoSuchRaftGroupException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/JRaftMaintainService.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/JRaftProtocol.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/JRaftServer.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/JSnapshotOperation.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/NacosClosure.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/NacosStateMachine.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/processor/AbstractProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/processor/NacosGetRequestProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/processor/NacosLogProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/processor/NacosReadRequestProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/processor/NacosWriteRequestProcessor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/RaftConfig.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/RaftErrorEvent.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/RaftEvent.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/RaftSysConstants.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/FailoverClosure.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/FailoverClosureImpl.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/JRaftConstants.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/JRaftLogOperation.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/JRaftOps.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/JRaftUtils.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/RaftExecutor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/RaftOptionsBuilder.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/distributed/raft/utils/RetryRunner.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/exception/ErrorCode.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/exception/KvStorageException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/exception/SnakflowerException.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/listener/LoggingApplicationListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/listener/NacosApplicationListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/listener/StartingApplicationListener.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/monitor/MetricsMonitor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/monitor/NacosMeterRegistry.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/storage/kv/FileKvStorage.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/storage/kv/KvStorage.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/storage/kv/MemoryKvStorage.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/storage/StorageFactory.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/ClassUtils.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/Commons.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/GenericType.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/GlobalExecutor.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/Loggers.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/OverrideParameterRequestWrapper.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/ReuseHttpRequest.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/ReuseHttpServletRequest.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/ReuseUploadFileHttpServletRequest.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/TimerContext.java
+  AL    D:/Project/nacos-develop/core/src/main/java/com/alibaba/nacos/core/utils/WebUtils.java
+  AL    D:/Project/nacos-develop/core/src/main/resources/META-INF/logback/nacos.xml
+  AL    D:/Project/nacos-develop/core/src/main/resources/META-INF/services/com.alibaba.nacos.core.distributed.distro.core.RetryPolicy
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/cluster/MemberUtilsTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/cluster/ServerMemberManagerTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/distributed/raft/JRaftServerTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/distributed/raft/processor/AbstractProcessorTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/listener/StandaloneProfileApplicationListenerTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/utils/ClassUtilsTest.java
+  AL    D:/Project/nacos-develop/core/src/test/java/com/alibaba/nacos/core/utils/SystemUtilsTest.java
+ 
+*****************************************************

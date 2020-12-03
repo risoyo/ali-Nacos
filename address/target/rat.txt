@@ -1,0 +1,42 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:49+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 16
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/address/pom.xml
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/AddressServer.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/auth/AddressServerAuthManager.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/component/AddressServerGeneratorManager.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/component/AddressServerManager.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/configuration/AddressServerSpringConfiguration.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/constant/AddressServerConstants.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/controller/AddressServerClusterController.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/controller/ServerListController.java
+  AL    D:/Project/nacos-develop/address/src/main/java/com/alibaba/nacos/address/misc/Loggers.java
+  AL    D:/Project/nacos-develop/address/src/main/resources/application.properties
+  AL    D:/Project/nacos-develop/address/src/main/resources/META-INF/logback/nacos-included.xml
+  AL    D:/Project/nacos-develop/address/src/main/resources/META-INF/nacos-default.properties
+  AL    D:/Project/nacos-develop/address/src/test/java/com/alibaba/nacos/address/AddressServerControllerTests.java
+  AL    D:/Project/nacos-develop/address/src/test/java/com/alibaba/nacos/address/ParamCheckUtilTests.java
+  AL    D:/Project/nacos-develop/address/src/test/java/com/alibaba/nacos/address/SimpleHttpTestUtils.java
+ 
+*****************************************************

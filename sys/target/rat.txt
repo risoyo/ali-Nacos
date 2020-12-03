@@ -1,0 +1,42 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:16+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 16
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/sys/pom.xml
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/env/Constants.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/env/EnvUtil.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/env/NacosAutoRefreshPropertySourceLoader.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/env/NacosDefaultPropertySourceEnvironmentPostProcessor.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/env/OriginTrackedPropertiesLoader.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/file/FileChangeEvent.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/file/FileWatcher.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/file/WatchFileCenter.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/utils/ApplicationUtils.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/utils/DiskUtils.java
+  AL    D:/Project/nacos-develop/sys/src/main/java/com/alibaba/nacos/sys/utils/InetUtils.java
+  AL    D:/Project/nacos-develop/sys/src/main/resources/META-INF/nacos-default.properties
+  AL    D:/Project/nacos-develop/sys/src/test/java/com/alibaba/nacos/sys/env/NacosAutoRefreshPropertySourceLoaderTest.java
+  AL    D:/Project/nacos-develop/sys/src/test/java/com/alibaba/nacos/sys/env/NacosDefaultPropertySourceEnvironmentPostProcessorTest.java
+  AL    D:/Project/nacos-develop/sys/src/test/resources/application.properties
+ 
+*****************************************************

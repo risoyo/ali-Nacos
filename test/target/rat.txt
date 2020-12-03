@@ -1,0 +1,88 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:15:03+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 62
+
+Apache Licensed: 62
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/test/pom.xml
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/AppTest.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/base/HttpClient4Test.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/base/Params.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/BaseTest.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/common/HttpUtils_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/common/NacosAsyncRestTemplate_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/common/NacosRestTemplate_Interceptors_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/common/NacosRestTemplate_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/common/WatchFileCenter_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigAPI_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigAPI_With_RootContextPath_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigBeta_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigCleanUtils.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigDerbyImport_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigDerbyRaft_DITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigExportAndImportAPI_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigLongPollReturnChanges_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/ConfigLongPoll_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/EmbeddedStorageContextUtils_CITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/config/TextChangeParser.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/AuthBase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/ConfigAuth_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/NamingAuth_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/Permission_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/Role_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/auth/User_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/BaseClusterTest.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/cluster/MemberLookup_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/cluster/ServerMemberManager_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/code/ControllerMethodsCacheTest.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/InetUtils_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/JacksonUtils.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/core/SnowFlowerIdGenerator_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/AutoDeregisterInstance_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/ClientBeat_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/Cmdb_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/CPInstancesAPI_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/DeregisterInstance_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/DeregisterInstance_With_RootContextPath_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/MultiTenant_InstanceAPI_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/MultiTenant_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/NamingBase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/NamingMaintainService_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/NamingProxy_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/NamingRaft_DITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/RandomUtils.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/RegisterInstance_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/RegisterInstance_With_RootContextPath_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/RestAPI_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/SelectInstances_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/SelectOneHealthyInstance_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/ServiceListTest_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/Starter_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/SubscribeCluster_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/Subscribe_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/naming/Unsubscribe_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/java/com/alibaba/nacos/test/smoke/nacosSmoke_ITCase.java
+  AL    D:/Project/nacos-develop/test/src/test/resources/application.properties
+  AL    D:/Project/nacos-develop/test/src/test/resources/logback-test.xml
+  AL    D:/Project/nacos-develop/test/src/test/resources/META-INF/services/com.alibaba.nacos.api.config.listener.ConfigChangeParser
+  AL    D:/Project/nacos-develop/test/src/test/resources/schema.sql
+ 
+*****************************************************

@@ -1,0 +1,55 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:15:01+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 29
+
+Apache Licensed: 29
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/console/pom.xml
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/config/ConsoleConfig.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/HealthController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/NamespaceController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/PermissionController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/RoleController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/ServerStateController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/controller/UserController.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/exception/ConsoleExceptionHandler.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/filter/JwtAuthenticationTokenFilter.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/model/Namespace.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/model/NamespaceAllInfo.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/CustomAuthenticationProvider.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/JwtAuthenticationEntryPoint.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/JwtTokenManager.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/NacosAuthConfig.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/NacosAuthManager.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/roles/NacosRoleServiceImpl.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/users/NacosUser.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/users/NacosUserDetails.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/security/nacos/users/NacosUserDetailsServiceImpl.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/utils/JwtTokenUtils.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/console/utils/PasswordEncoderUtil.java
+  AL    D:/Project/nacos-develop/console/src/main/java/com/alibaba/nacos/Nacos.java
+  AL    D:/Project/nacos-develop/console/src/main/resources/application.properties
+  AL    D:/Project/nacos-develop/console/src/main/resources/META-INF/nacos-default.properties
+  AL    D:/Project/nacos-develop/console/src/main/resources/META-INF/schema.sql
+  AL    D:/Project/nacos-develop/console/src/test/java/com/alibaba/nacos/console/controller/HealthControllerTest.java
+  AL    D:/Project/nacos-develop/console/src/test/java/com/alibaba/nacos/console/controller/UserControllerTest.java
+ 
+*****************************************************

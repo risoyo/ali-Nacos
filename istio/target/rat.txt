@@ -1,0 +1,40 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:57+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 14
+
+Apache Licensed: 14
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/istio/pom.xml
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/IstioApp.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/mcp/CollectionTypes.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/mcp/McpServerIntercepter.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/mcp/NacosMcpServer.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/mcp/NacosMcpService.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/misc/IstioConfig.java
+  AL    D:/Project/nacos-develop/istio/src/main/java/com/alibaba/nacos/istio/misc/Loggers.java
+  AL    D:/Project/nacos-develop/istio/src/main/resources/gateway.proto
+  AL    D:/Project/nacos-develop/istio/src/main/resources/mcp.proto
+  AL    D:/Project/nacos-develop/istio/src/main/resources/metadata.proto
+  AL    D:/Project/nacos-develop/istio/src/main/resources/resource.proto
+  AL    D:/Project/nacos-develop/istio/src/main/resources/service_entry.proto
+  AL    D:/Project/nacos-develop/istio/src/main/resources/status.proto
+ 
+*****************************************************

@@ -1,0 +1,172 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:47+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 146
+
+Apache Licensed: 146
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/naming/pom.xml
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/cluster/ServerListManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/cluster/ServerStatus.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/cluster/ServerStatusManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/cluster/transport/JacksonSerializer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/cluster/transport/Serializer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ConsistencyService.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/Datum.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/DelegateConsistencyServiceImpl.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/combined/DistroHttpCombinedKey.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/combined/DistroHttpCombinedKeyDelayTask.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/combined/DistroHttpCombinedKeyExecuteTask.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/combined/DistroHttpCombinedKeyTaskFailedHandler.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/combined/DistroHttpDelayTaskProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/component/DistroDataStorageImpl.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/component/DistroHttpAgent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/DataStore.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/DistroConsistencyServiceImpl.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/DistroHttpData.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/DistroHttpRegistry.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ephemeral/EphemeralConsistencyService.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/KeyBuilder.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/ClusterVersionJudgement.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/BasePersistentServiceProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/BatchReadResponse.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/BatchWriteRequest.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/NamingKvStorage.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/NamingSnapshotOperation.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/PersistentServiceProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/impl/StandalonePersistentServiceProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/PersistentConsistencyService.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/PersistentConsistencyServiceDelegateImpl.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/PersistentNotifier.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/BaseRaftEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/LeaderElectFinishedEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/MakeLeaderEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftConsistencyServiceImpl.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftCore.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftListener.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftPeer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftPeerSet.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftProxy.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftStore.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/RecordListener.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/consistency/ValueChangeEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/ApiController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/CatalogController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/ClusterController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/DistroController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/HealthController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/InstanceController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/OperatorController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/RaftController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/controllers/ServiceController.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/Cluster.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/DistroMapper.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/Instance.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/Instances.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/Service.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/ServiceManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/core/SubscribeManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/exception/ResponseExceptionHandler.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/ClientBeatCheckTask.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/ClientBeatProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/events/InstanceHeartbeatTimeoutEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/extend/HealthCheckExtendProvider.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckCommon.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckProcessorDelegate.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckReactor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckStatus.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HealthCheckTask.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/HttpHealthCheckProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/MysqlHealthCheckProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/NoneHealthCheckProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/RsInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/healthcheck/TcpSuperSenseProcessor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/GlobalConfig.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/GlobalExecutor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/HttpClient.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/HttpClientManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/Loggers.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/Message.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/NamingProxy.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/NetUtils.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/ServerStatusSynchronizer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/ServiceStatusSynchronizer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/SwitchDomain.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/SwitchEntry.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/SwitchManager.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/Synchronizer.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/misc/UtilsAndCommons.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/monitor/MetricsMonitor.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/monitor/PerformanceLoggerThread.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/NamingApp.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/ClusterInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/ClusterStateView.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/InstanceOperationContext.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/InstanceOperationInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/IpAddressInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/Record.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/ServiceDetailInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/ServiceDetailView.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/ServiceView.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/Subscriber.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/pojo/Subscribers.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/push/ClientInfo.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/push/DataSource.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/push/PushService.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/push/ServiceChangeEvent.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/selector/LabelSelector.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/selector/NoneSelector.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/selector/Selector.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/utils/Constants.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/web/CanDistro.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/web/DistroFilter.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/web/NamingConfig.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/web/NamingResourceParser.java
+  AL    D:/Project/nacos-develop/naming/src/main/java/com/alibaba/nacos/naming/web/TrafficReviseFilter.java
+  AL    D:/Project/nacos-develop/naming/src/main/resources/application.properties
+  AL    D:/Project/nacos-develop/naming/src/main/resources/META-INF/logback/naming-included.xml
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/BaseTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/cluster/transport/SerializerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/consistency/ephemeral/distro/DistroConsistencyServiceImplTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/consistency/persistent/ClusterVersionJudgementTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/consistency/persistent/impl/NamingSnapshotOperationTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/consistency/persistent/raft/RaftPeerSetTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/controllers/CatalogControllerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/controllers/ClusterControllerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/controllers/InstanceControllerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/ClusterTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/DomainsManagerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/DomainTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/InstancesTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/InstanceTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/PushServiceTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/ServiceManagerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/ServiceTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/core/SubscribeManagerTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/healthcheck/ClientBeatCheckTaskTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/JraftTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/misc/UtilsAndCommonsTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/pojo/SubscriberTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/push/PushClientTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/raft/RaftStoreTest.java
+  AL    D:/Project/nacos-develop/naming/src/test/java/com/alibaba/nacos/naming/selector/LabelSelectorTest.java
+ 
+*****************************************************

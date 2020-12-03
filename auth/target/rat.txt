@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:17+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 12
+
+Apache Licensed: 12
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/auth/pom.xml
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/annotation/Secured.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/AuthManager.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/common/ActionTypes.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/common/AuthConfigs.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/common/AuthSystemTypes.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/exception/AccessException.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/model/Permission.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/model/Resource.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/model/User.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/parser/DefaultResourceParser.java
+  AL    D:/Project/nacos-develop/auth/src/main/java/com/alibaba/nacos/auth/parser/ResourceParser.java
+ 
+*****************************************************

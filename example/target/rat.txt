@@ -1,0 +1,754 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:15:04+08:00
+
+Notes: 0
+Binaries: 2
+Archives: 2
+Standards: 27
+
+Apache Licensed: 8
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+18 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/controller/DiscoveryController.java
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/NacosDiscoveryApplication.java
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-comment.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-concurrent.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-constant.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-exception.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-flowcontrol.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-naming.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-oop.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-orm.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-other.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-set.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-cachefile
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-result.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/pmd.xml
+  D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/site/pmd.html
+
+*****************************************************
+
+Archives:
+
+ + D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/nacos-spring-boot-discovery-example-1.4.1-SNAPSHOT-sources.jar
+ 
+ + D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/nacos-spring-boot-discovery-example-1.4.1-SNAPSHOT.jar
+ 
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/pom.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/controller/DiscoveryController.java
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/NacosDiscoveryApplication.java
+  AL    D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/resources/application.properties
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-comment.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-concurrent.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-constant.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-exception.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-flowcontrol.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-naming.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-oop.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-orm.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-other.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-set.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-cachefile
+  AL    D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-checker.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-result.xml
+  AL    D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/classes/application.properties
+  B     D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/classes/com/alibaba/nacos/example/spring/boot/controller/DiscoveryController.class
+  B     D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/classes/com/alibaba/nacos/example/spring/boot/NacosDiscoveryApplication.class
+   D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-archiver/pom.properties
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+  A     D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/nacos-spring-boot-discovery-example-1.4.1-SNAPSHOT-sources.jar
+  A     D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/nacos-spring-boot-discovery-example-1.4.1-SNAPSHOT.jar
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/pmd.xml
+ !????? D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/site/pmd.html
+  AL    D:/Project/nacos-develop/example/pom.xml
+  AL    D:/Project/nacos-develop/example/singleExample/main/java/com/alibaba/nacos/example/App.java
+  AL    D:/Project/nacos-develop/example/singleExample/main/java/com/alibaba/nacos/example/ConfigExample.java
+  AL    D:/Project/nacos-develop/example/singleExample/main/java/com/alibaba/nacos/example/NamingExample.java
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/controller/DiscoveryController.java
+=====================================================
+package com.alibaba.nacos.example.spring.boot.controller;
+
+import com.alibaba.nacos.api.annotation.NacosInjected;
+import com.alibaba.nacos.api.exception.NacosException;
+import com.alibaba.nacos.api.naming.NamingService;
+import com.alibaba.nacos.api.naming.pojo.Instance;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import java.util.List;
+
+import static org.springframework.web.bind.annotation.RequestMethod.GET;
+
+/**
+ * support address server.
+ *
+ * @author nacos
+ * @since 1.1.0
+ */
+@Controller
+@RequestMapping("discovery")
+public class DiscoveryController {
+
+    @NacosInjected
+    private NamingService namingService;
+
+    @RequestMapping(value = "/get", method = GET)
+    @ResponseBody
+    public List<Instance> get(@RequestParam String serviceName) throws NacosException {
+        return namingService.getAllInstances(serviceName);
+    }
+}
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/src/main/java/com/alibaba/nacos/example/spring/boot/NacosDiscoveryApplication.java
+=====================================================
+package com.alibaba.nacos.example.spring.boot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * support address server.
+ *
+ * @author nacos
+ * @since 1.1.0
+ */
+@SpringBootApplication
+public class NacosDiscoveryApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(NacosDiscoveryApplication.class, args);
+    }
+}
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-comment.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaComments" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+
+    <rule name="CommentsMustBeJavadocFormatRule" message="java.comment.CommentsMustBeJavadocFormatRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.comment.CommentsMustBeJavadocFormatRule">
+        <description>java.comment.CommentsMustBeJavadocFormatRule.rule.desc</description>
+        <priority>3</priority>
+
+        <example>
+<![CDATA[
+    /**
+     * 
+     * XXX class function description.
+     *
+     */
+    public class XxClass implements Serializable {
+        private static final long serialVersionUID = 113323427779853001L;
+        /**
+         * id
+         */
+        private Long id;
+        /**
+         * title
+         */
+        private String title;
+    
+        /**
+         * find by id
+         * 
+         * @param ruleId rule id
+         * @param page start from 1
+         * @return Result<Xxxx>
+         */
+        public Result<Xxxx> funcA(Long ruleId, Integer page) {
+            return null;
+        }
+    }
+]]>
+        </example>
+    </rule>
+
+    <rule name="AbstractMethodOrInterfaceMethodMustUseJavadocRule"
+        message="java.comment.AbstractMethodOrInterfaceMethodMustUseJavadocRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.comment.AbstractMethodOrInterfaceMethodMustUseJavadocRule">
+        <description>java.comment.AbstractMethodOrInterfaceMethodMustUseJavadocRule.rule.desc</description>
+        <priority>3</priority>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-concurrent.xml
+=====================================================
+<?xml version="1.0"?>
+<ruleset name="AlibabaJavaConcurrent"
+         xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="ThreadPoolCreationRule"
+          language="java"
+          since="1.6"
+          message="java.concurrent.ThreadPoolCreationRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.concurrent.ThreadPoolCreationRule">
+        <description>java.concurrent.ThreadPoolCreationRule.rule.desc</description>
+        <priority>1</priority>
+        <example>
+            <![CDATA[
+Positive example 1：
+    //org.apache.commons.lang3.concurrent.BasicThreadFactory
+    ScheduledExecutorService executorService = new ScheduledThreadPoolExecutor(1,
+        new BasicThreadFactory.Builder().namingPattern("example-schedule-pool-%d").daemon(true).build());
+       ]]>
+        </example>
+        <example>
+            <![CDATA[
+Positive example 2：
+    ThreadFactory namedThreadFactory = new ThreadFactoryBuilder()
+        .setNameFormat("demo-pool-%d").build();
+
+    //Common Thread Pool
+    ExecutorService pool = new ThreadPoolExecutor(5, 200,
+         0L, TimeUnit.MILLISECONDS,
+         new LinkedBlockingQueue<Runnable>(1024), namedThreadFactory, new ThreadPoolExecutor.AbortPolicy());
+
+    pool.execute(()-> System.out.println(Thread.currentThread().getName()));
+    pool.shutdown();//gracefully shutdown
+       ]]>
+        </example>
+        <example>
+            <![CDATA[
+Positive example 3：
+    <bean id="userThreadPool"
+        class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+        <property name="corePoolSize" value="10" />
+        <property name="maxPoolSize" value="100" />
+        <property name="queueCapacity" value="2000" />
+
+    <property name="threadFactory" value= threadFactory />
+        <property name="rejectedExecutionHandler">
+            <ref local="rejectedExecutionHandler" />
+        </property>
+    </bean>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-constant.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaConstants" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+
+	<rule name="UpperEllRule"
+		message="java.constant.UpperEllRule.rule.msg"
+		class="com.alibaba.p3c.pmd.lang.java.rule.constant.UpperEllRule">
+		<priority>1</priority>
+		<example>
+      <![CDATA[
+ Negative example:  
+   //It is hard to tell whether it is number 11 or Long 1.
+   Long warn = 1l;  
+       ]]>
+        </example> 
+        <example>
+        <![CDATA[
+ Positive example:
+   Long notwarn = 1L;   
+        ]]>
+         </example>
+	</rule>
+	
+	<rule name="UndefineMagicConstantRule"
+		message="java.constant.UndefineMagicConstantRule.rule.msg"
+		class="com.alibaba.p3c.pmd.lang.java.rule.constant.UndefineMagicConstantRule">
+		<priority>3</priority>
+
+		<example>
+        <![CDATA[    
+ Negative example: 
+   //Magic values, except for predefined, are forbidden in coding.
+   if(key.equals("Id#taobao_1")){ 
+      //...
+   }    
+         ]]>
+        </example>
+        <example>
+        <![CDATA[ 
+ Positive example:  
+   String KEY_PRE = "Id#taobao_1";  
+   if(key.equals(KEY_PRE)){ 
+       //...
+   }
+      ]]>
+      </example>
+	</rule>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-exception.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaExceptions" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="MethodReturnWrapperTypeRule"
+          language="java"
+          since="1.6"
+          message="java.exception.MethodReturnWrapperTypeRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.exception.MethodReturnWrapperTypeRule">
+        <priority>3</priority>
+        <example>
+            <![CDATA[
+    public int method() {
+        Integer a = null;
+        return a;
+    }
+            ]]>
+        </example>
+    </rule>
+
+    <rule name="AvoidReturnInFinallyRule"
+          language="java"
+          message="java.exception.AvoidReturnInFinallyRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.exception.AvoidReturnInFinallyRule">
+        <priority>2</priority>
+        <example>
+            <![CDATA[
+Negative example:
+    public static Long readFileLength(String fileName) {
+        try {
+            File file = new File(fileName);
+            RandomAccessFile randomAccessFile = new RandomAccessFile(file, "r");
+            return randomAccessFile.length();
+        } catch (Exception e) {
+            logger.error(e.getMessage(), e);
+        } finally {
+            countDownLatch.countDown();
+            return 0L;
+        }
+    }
+]]>
+        </example>
+    </rule>
+
+    <rule name="TransactionMustHaveRollbackRule"
+          language="java"
+          since="1.6"
+          message="java.exception.TransactionMustHaveRollbackRule.rule.msg"
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-flowcontrol.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaFlowControl" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="SwitchStatementRule"
+          language="java"
+          message="java.flowcontrol.SwitchStatementRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.flowcontrol.SwitchStatementRule">
+        <priority>2</priority>
+
+        <example>
+            <![CDATA[
+    switch( x ){
+        case 1 :
+        break ;
+        case 2 :
+        break ;
+        default :
+    }
+			]]>
+        </example>
+    </rule>
+
+    <rule name="NeedBraceRule"
+          language="java"
+          message="java.flowcontrol.NeedBraceRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.flowcontrol.NeedBraceRule">
+        <priority>1</priority>
+
+        <example>
+            <![CDATA[
+    if(flag) {
+        System.out.println("hello world");
+    }
+			]]>
+        </example>
+    </rule>
+
+    <rule name="AvoidComplexConditionRule"
+          language="java"
+          message="java.flowcontrol.AvoidComplexConditionRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.flowcontrol.AvoidComplexConditionRule">
+        <description>java.flowcontrol.AvoidComplexConditionRule.rule.desc</description>
+        <priority>3</priority>
+
+        <example>
+            <![CDATA[
+Negative example:
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-naming.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaNaming" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+
+    <rule name="ClassNamingShouldBeCamelRule"
+          language="java"
+          since="1.6"
+          message="java.naming.ClassNamingShouldBeCamelRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.naming.ClassNamingShouldBeCamelRule">
+        <priority>3</priority>
+    </rule>
+
+    <rule name="AbstractClassShouldStartWithAbstractNamingRule"
+          language="java"
+          since="1.4"
+          message="java.naming.AbstractClassShouldStartWithAbstractNamingRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.naming.AbstractClassShouldStartWithAbstractNamingRule">
+        <priority>2</priority>
+        <example>
+            <![CDATA[
+    abstract class BaseControllerDemo{
+    }
+
+    abstract class AbstractActionDemo{
+    }
+            ]]>
+        </example>
+    </rule>
+
+    <rule name="ExceptionClassShouldEndWithExceptionRule"
+          language="java"
+          since="1.6"
+          message="java.naming.ExceptionClassShouldEndWithExceptionRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.naming.ExceptionClassShouldEndWithExceptionRule">
+        <priority>2</priority>
+        <example>
+            <![CDATA[
+    public class CacheDemoException extends Exception{
+    }
+            ]]>
+        </example>
+    </rule>
+
+
+    <rule name="TestClassShouldEndWithTestNamingRule"
+          language="java"
+          since="1.6"
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-oop.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaOop" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="EqualsAvoidNullRule"
+          language="java"
+          message="java.oop.EqualsAvoidNullRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.oop.EqualsAvoidNullRule">
+        <priority>2</priority>
+
+        <example>
+            <![CDATA[
+    public void f(String str){
+        String inner = "hi";
+        if(inner.equals(str)){
+            System.out.println("hello world");
+        }
+    }
+			]]>
+        </example>
+    </rule>
+
+    <rule name="WrapperTypeEqualityRule"
+          language="java"
+          message="java.oop.WrapperTypeEqualityRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.oop.WrapperTypeEqualityRule">
+        <description>java.oop.WrapperTypeEqualityRule.rule.desc</description>
+        <priority>1</priority>
+
+        <example>
+            <![CDATA[
+    Integer a = 235;
+    Integer b = 235;
+    if (a.equals(b)) {
+        //相等
+    }
+			]]>
+        </example>
+    </rule>
+
+    <rule name="PojoMustUsePrimitiveFieldRule"
+          language="java"
+          message="java.oop.PojoMustUsePrimitiveFieldRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.oop.PojoMustUsePrimitiveFieldRule">
+        <description>java.oop.PojoMustUsePrimitiveFieldRule.rule.msg.desc</description>
+        <priority>3</priority>
+
+        <example>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-orm.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaOrm" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="IbatisMethodQueryForListRule"
+          language="java"
+          since="1.6"
+          message="java.naming.IbatisMethodQueryForListRule.rule.msg"
+          class="com.alibaba.p3c.pmd.lang.java.rule.orm.IbatisMethodQueryForListRule">
+        <priority>3</priority>
+    </rule>
+
+</ruleset>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-other.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaOthers" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+    <rule name="AvoidPatternCompileInMethodRule" language="java"
+        message="java.other.AvoidPatternCompileInMethodRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.other.AvoidPatternCompileInMethodRule">
+        <description>java.other.AvoidPatternCompileInMethodRule.rule.desc</description>
+        <priority>1</priority>
+        <example>
+<![CDATA[
+    public class XxxClass {
+        // Use precompile
+        private static Pattern NUMBER_PATTERN = Pattern.compile("[0-9]+");
+        public Pattern getNumberPattern() {
+            // Avoid use Pattern.compile in method body.
+            Pattern localPattern = Pattern.compile("[0-9]+");
+            return localPattern;
+        }
+    }
+]]>
+      </example>
+    </rule>
+
+    <rule name="AvoidApacheBeanUtilsCopyRule" language="java"
+        message="java.other.AvoidApacheBeanUtilsCopyRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.other.AvoidApacheBeanUtilsCopyRule">
+        <description>java.other.AvoidApacheBeanUtilsCopyRule.rule.desc</description>
+        <priority>1</priority>
+        <example>
+<![CDATA[
+    TestObject a = new TestObject();
+    TestObject b = new TestObject();
+    a.setX(b.getX());
+    a.setY(b.getY());
+]]>
+      </example>
+    </rule>
+
+    <rule name="AvoidNewDateGetTimeRule" language="java"
+        message="java.other.AvoidNewDateGetTimeRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.other.AvoidNewDateGetTimeRule">
+        <description>java.other.AvoidNewDateGetTimeRule.rule.desc</description>
+        <priority>1</priority>
+        <example>
+<![CDATA[
+    public class TimeMillisDemo {
+        public static void main(String args[]) {
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/ali-set.xml
+=====================================================
+<?xml version="1.0"?>
+
+<ruleset name="AlibabaJavaSets" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+ 
+    <rule name="ClassCastExceptionWithToArrayRule"
+        message="java.set.ClassCastExceptionWithToArrayRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.set.ClassCastExceptionWithToArrayRule">
+        <priority>2</priority>
+        <example>
+        <![CDATA[    
+Negative example:  
+   Integer[] a = (Integer [])c.toArray();
+        ]]>
+        </example> 
+        <example>
+        <![CDATA[
+Positive example： 
+   Integer[] b = (Integer [])c.toArray(new Integer[c.size()]); 
+         ]]>
+        </example>
+    </rule>
+
+    <rule name="UnsupportedExceptionWithModifyAsListRule"
+        message="java.set.UnsupportedExceptionWithModifyAsListRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.set.UnsupportedExceptionWithModifyAsListRule">
+        <priority>2</priority>
+        <example>
+       <![CDATA[ 
+Positive example:
+   List<String> t   = Arrays.asList("a","b","c"); 
+   //warn
+   t.add("22");
+   //warn
+   t.remove("22");
+   //warn
+   t.clear(); 
+         ]]>
+         </example>
+    </rule>
+
+    <rule name="ClassCastExceptionWithSubListToArrayListRule"
+        message="java.set.ClassCastExceptionWithSubListToArrayListRule.rule.msg"
+        class="com.alibaba.p3c.pmd.lang.java.rule.set.ClassCastExceptionWithSubListToArrayListRule">
+        <description>java.set.ClassCastExceptionWithSubListToArrayListRule.rule.msg.desc</description>
+        <priority>2</priority>
+        <example>
+        <![CDATA[ 
+Negative example:
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-cachefile
+=====================================================
+#Wed Dec 02 21:12:32 CST 2020
+D\:\\Project\\nacos-develop\\example\\nacos-spring-boot-discovery-example\\src\\main\\java\\com\\alibaba\\nacos\\example\\spring\\boot\\NacosDiscoveryApplication.java=1606914675514
+D\:\\Project\\nacos-develop\\example\\nacos-spring-boot-discovery-example\\src\\main\\resources\\application.properties=1606914228444
+D\:\\Project\\nacos-develop\\example\\nacos-spring-boot-discovery-example\\src\\main\\java\\com\\alibaba\\nacos\\example\\spring\\boot\\controller\\DiscoveryController.java=1606914675504
+configuration*?=C1D35B612A9B1C30C8C0D8B25035EDA843CAA3DC
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/checkstyle-result.xml
+=====================================================
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+</checkstyle>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+=====================================================
+com\alibaba\nacos\example\spring\boot\controller\DiscoveryController.class
+com\alibaba\nacos\example\spring\boot\NacosDiscoveryApplication.class
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+=====================================================
+D:\Project\nacos-develop\example\nacos-spring-boot-discovery-example\src\main\java\com\alibaba\nacos\example\spring\boot\NacosDiscoveryApplication.java
+D:\Project\nacos-develop\example\nacos-spring-boot-discovery-example\src\main\java\com\alibaba\nacos\example\spring\boot\controller\DiscoveryController.java
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/pmd.xml
+=====================================================
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2020-12-02T21:12:32.895">
+<file name="D:\Project\nacos-develop\example\nacos-spring-boot-discovery-example\src\main\java\com\alibaba\nacos\example\spring\boot\NacosDiscoveryApplication.java">
+<violation beginline="7" endline="12" begincolumn="8" endcolumn="1" rule="ClassMustHaveAuthorRule" ruleset="AlibabaJavaComments" package="com.alibaba.nacos.example.spring.boot" class="NacosDiscoveryApplication" priority="3">
+【NacosDiscoveryApplication】缺少包含@author的注释信息
+</violation>
+</file>
+<file name="D:\Project\nacos-develop\example\nacos-spring-boot-discovery-example\src\main\java\com\alibaba\nacos\example\spring\boot\controller\DiscoveryController.java">
+<violation beginline="18" endline="28" begincolumn="8" endcolumn="1" rule="ClassMustHaveAuthorRule" ruleset="AlibabaJavaComments" package="com.alibaba.nacos.example.spring.boot.controller" class="DiscoveryController" priority="3">
+【DiscoveryController】缺少包含@author的注释信息
+</violation>
+</file>
+</pmd>
+
+=====================================================
+== File: D:/Project/nacos-develop/example/nacos-spring-boot-discovery-example/target/site/pmd.html
+=====================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Generated by Apache Maven Doxia Site Renderer 1.4 at 2020-12-02 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>PMD Results</title>
+    <style type="text/css" media="all">
+      @import url("./css/maven-base.css");
+      @import url("./css/maven-theme.css");
+      @import url("./css/site.css");
+    </style>
+    <link rel="stylesheet" href="./css/print.css" type="text/css" media="print" />
+    <meta name="Date-Revision-yyyymmdd" content="20201202" />
+    <meta http-equiv="Content-Language" content="zh" />
+        
+        </head>
+  <body class="composite">
+    <div id="banner">
+                      <div class="clear">
+        <hr/>
+      </div>
+    </div>
+    <div id="breadcrumbs">
+            
+                    
+                <div class="xleft">
+        <span id="publishDate">最近更新: 2020-12-02</span>
+                  &nbsp;| <span id="projectVersion">版本: 1.4.1-SNAPSHOT</span>
+                      </div>
+            <div class="xright">        
+                    
+      </div>
+      <div class="clear">
+        <hr/>
+      </div>
+    </div>
+    <div id="leftColumn">
+      <div id="navcolumn">
+             
+                    
+                                      <a href="http://maven.apache.org/" title="构建依靠 Maven" class="poweredBy">
+        <img class="poweredBy" alt="构建依靠 Maven" src="./images/logos/maven-feather.png" />
+      </a>
+                   
+                    
+            </div>
+    </div>
+    <div id="bodyColumn">
+      <div id="contentBox">
+        <div class="section">

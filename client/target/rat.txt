@@ -1,0 +1,119 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-02T21:14:54+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 93
+
+Apache Licensed: 93
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    D:/Project/nacos-develop/client/pom.xml
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/common/GroupKey.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/filter/impl/ConfigContext.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/filter/impl/ConfigFilterChainManager.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/filter/impl/ConfigRequest.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/filter/impl/ConfigResponse.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/http/HttpAgent.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/http/MetricsHttpAgent.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/http/ServerHttpAgent.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/AbstractConfigChangeParser.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/CacheData.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/ClientWorker.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/ConfigChangeHandler.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/ConfigHttpClientManager.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/Limiter.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/LocalConfigInfoProcessor.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/PropertiesChangeParser.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/ServerlistChangeEvent.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/ServerListManager.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/SpasAdapter.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/impl/YmlChangeParser.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/listener/impl/AbstractConfigChangeListener.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/listener/impl/PropertiesListener.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/NacosConfigService.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/utils/ConcurrentDiskUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/utils/ContentUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/utils/JvmUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/utils/ParamUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/config/utils/SnapShotSwitch.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/CredentialListener.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/Credentials.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/CredentialService.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/CredentialWatcher.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/IdentifyConstants.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/SpasCredential.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/SpasCredentialLoader.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/identify/StsConfig.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/logging/AbstractNacosLogging.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/logging/log4j2/Log4J2NacosLogging.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/logging/logback/LogbackNacosLogging.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/monitor/MetricsMonitor.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/backups/FailoverReactor.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/beat/BeatInfo.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/beat/BeatReactor.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/cache/ConcurrentDiskUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/cache/DiskCache.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/core/Balancer.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/core/HostReactor.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/core/ProtectMode.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/core/PushReceiver.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/event/InstancesChangeEvent.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/event/InstancesChangeNotifier.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/NacosNamingMaintainService.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/NacosNamingService.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/net/NamingHttpClientManager.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/net/NamingProxy.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/Chooser.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/CollectionUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/GenericPoller.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/InitUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/JvmRandom.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/NetUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/Pair.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/Poller.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/RandomUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/SignUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/ThreadLocalRandom.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/naming/utils/UtilAndComs.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/security/SecurityProxy.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/AppNameUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/ContextPathUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/EnvUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/LogUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/ParamUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/TemplateUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/TenantUtil.java
+  AL    D:/Project/nacos-develop/client/src/main/java/com/alibaba/nacos/client/utils/ValidatorUtils.java
+  AL    D:/Project/nacos-develop/client/src/main/resources/nacos-log4j2.xml
+  AL    D:/Project/nacos-develop/client/src/main/resources/nacos-logback.xml
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/AppTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/BeatReactorTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/config/common/GroupKeyTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/config/listener/impl/ConfigChangeHandlerTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/config/listener/impl/PropertiesChangeParserTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/config/listener/impl/YmlChangeParserTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/ConfigTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/naming/cache/DiskCacheTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/naming/core/HostReactorTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/NamingTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/security/SecurityProxyTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/utils/ContextPathUtilTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/utils/StringUtilsTest.java
+  AL    D:/Project/nacos-develop/client/src/test/java/com/alibaba/nacos/client/utils/ValidatorUtilsTest.java
+ 
+*****************************************************
